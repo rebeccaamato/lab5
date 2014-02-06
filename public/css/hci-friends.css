@@ -7,8 +7,14 @@
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
 	color: #CC00AA;
+	background-color: #8382BF;
+}
+
+.friends {
+	 width: 225px;
 }
 
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
